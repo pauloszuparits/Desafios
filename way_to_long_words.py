@@ -1,3 +1,4 @@
+# link https://codeforces.com/problemset/problem/71/A
 qtdOp = int(input())
 i = 0
 arr = []
