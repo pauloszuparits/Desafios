@@ -2,7 +2,7 @@
 qtdOp = int(input())
 i = 0
 arr = []
-word2 = []
+
 for i in range(qtdOp):
     word = input()
     tam = len(word)
@@ -10,7 +10,8 @@ for i in range(qtdOp):
         word = list(word)
         firstLet = word[0]
         lastLet = word[tam -1]
-        tam2 = len(word) - 2
+        tam2 = tam - 2
+        word2 = []
         word2.append(firstLet)
         word2.append(str(tam2))
         word2.append(lastLet)
