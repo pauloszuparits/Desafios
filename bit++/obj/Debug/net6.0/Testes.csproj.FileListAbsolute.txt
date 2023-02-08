@@ -1,0 +1,15 @@
+/home/pauloszuparits/codes/Testes/bin/Debug/net6.0/Testes
+/home/pauloszuparits/codes/Testes/bin/Debug/net6.0/Testes.deps.json
+/home/pauloszuparits/codes/Testes/bin/Debug/net6.0/Testes.runtimeconfig.json
+/home/pauloszuparits/codes/Testes/bin/Debug/net6.0/Testes.dll
+/home/pauloszuparits/codes/Testes/bin/Debug/net6.0/ref/Testes.dll
+/home/pauloszuparits/codes/Testes/bin/Debug/net6.0/Testes.pdb
+/home/pauloszuparits/codes/Testes/obj/Debug/net6.0/Testes.csproj.AssemblyReference.cache
+/home/pauloszuparits/codes/Testes/obj/Debug/net6.0/Testes.GeneratedMSBuildEditorConfig.editorconfig
+/home/pauloszuparits/codes/Testes/obj/Debug/net6.0/Testes.AssemblyInfoInputs.cache
+/home/pauloszuparits/codes/Testes/obj/Debug/net6.0/Testes.AssemblyInfo.cs
+/home/pauloszuparits/codes/Testes/obj/Debug/net6.0/Testes.csproj.CoreCompileInputs.cache
+/home/pauloszuparits/codes/Testes/obj/Debug/net6.0/Testes.dll
+/home/pauloszuparits/codes/Testes/obj/Debug/net6.0/ref/Testes.dll
+/home/pauloszuparits/codes/Testes/obj/Debug/net6.0/Testes.pdb
+/home/pauloszuparits/codes/Testes/obj/Debug/net6.0/Testes.genruntimeconfig.cache
