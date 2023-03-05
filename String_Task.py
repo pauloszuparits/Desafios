@@ -1,3 +1,4 @@
+#  link para o desafio: https://codeforces.com/contest/118/problem/A
 string = input().upper()
 resp = []
 for letter in string:
